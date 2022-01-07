@@ -5,7 +5,7 @@ relative_links:
   collections: true
 
 baseurl: "" # the subpath of the site, e.g. /blog
-url: "/" # the base hostname & protocol for the site, e.g. http://example.com
+url: "" # the base hostname & protocol for the site, e.g. http://example.com
 
 
 theme: jekyll-theme-slate
