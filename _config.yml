@@ -4,8 +4,8 @@ relative_links:
   enabled: true
   collections: true
 
-baseurl: "" # the subpath of the site, e.g. /blog
-url: "" # the base hostname & protocol for the site, e.g. http://example.com
+baseurl: "/kohi-documentation" # the subpath of the site, e.g. /blog
+url: "https://travisvroman.github.io" # the base hostname & protocol for the site, e.g. http://example.com
 
 
 theme: jekyll-theme-slate
